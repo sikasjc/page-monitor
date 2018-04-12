@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  9 09:29:29 2018
 
-@author: HP
+@author: Sikasjc
 """
 import urllib, chardet, time
 from bs4 import BeautifulSoup
